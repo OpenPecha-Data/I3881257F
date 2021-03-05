@@ -1,40 +1,46 @@
-id: opecha:P007878
+id: P007878
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W29157
   title: གསུང་འབུམ། བློ་བཟང་དཔལ་ལྡན་ཆོས་ཀྱི་རྡོ་རྗེ
-  volume:
+  author: ''
+  volumes:
     3b8c83cdb8404222a6641e06292349af:
       image_group_id: I1KG1342
       title: Volume 1 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 1
       total_pages: 744
+      base_file: v001.txt
     0174a45cc8b446d2b052bf7301b359ff:
       image_group_id: I1KG1343
       title: Volume 2 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 2
       total_pages: 748
+      base_file: v002.txt
     053dc71f28be4065be1b187b4bf64543:
       image_group_id: I1KG1344
       title: Volume 3 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 3
       total_pages: 524
+      base_file: v003.txt
     bc1de08f124549bf8e0f724b37c4853d:
       image_group_id: I1KG1345
       title: Volume 4 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 4
       total_pages: 512
+      base_file: v004.txt
     87616e00526c43a4a5e29fff08b260f0:
       image_group_id: I1KG1346
       title: Volume 5 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 5
       total_pages: 580
+      base_file: v005.txt
     b2f97a5be0dd4abf86ad9a70f895d525:
       image_group_id: I1KG1347
       title: Volume 6 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 6
       total_pages: 488
-  author: ''
+      base_file: v006.txt
 ebook_metadata:
   title: གསུང་འབུམ། བློ་བཟང་དཔལ་ལྡན་ཆོས་ཀྱི་རྡོ་རྗེ
   author: ''
