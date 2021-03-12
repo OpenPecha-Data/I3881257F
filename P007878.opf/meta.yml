@@ -5,36 +5,42 @@ source_metadata:
   title: གསུང་འབུམ། བློ་བཟང་དཔལ་ལྡན་ཆོས་ཀྱི་རྡོ་རྗེ
   author: ''
   volumes:
-    b09f948703fd4e4fb4af676a9b545ce3:
+    3b8c83cdb8404222a6641e06292349af:
       image_group_id: I1KG1342
-      title: ''
+      title: Volume 1 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 1
       total_pages: 744
-    58ce3f8f74d74d03aab6d9cb50e60ea3:
+      base_file: v001.txt
+    0174a45cc8b446d2b052bf7301b359ff:
       image_group_id: I1KG1343
-      title: ''
+      title: Volume 2 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 2
       total_pages: 748
-    6ebc27e9c3034d678b7dd0aefc351326:
+      base_file: v002.txt
+    053dc71f28be4065be1b187b4bf64543:
       image_group_id: I1KG1344
-      title: ''
+      title: Volume 3 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 3
       total_pages: 524
-    d89d0548a272498f9f57df430cb2caa7:
+      base_file: v003.txt
+    bc1de08f124549bf8e0f724b37c4853d:
       image_group_id: I1KG1345
-      title: ''
+      title: Volume 4 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 4
       total_pages: 512
-    b59bff112fca43c189108ca51d95440a:
+      base_file: v004.txt
+    87616e00526c43a4a5e29fff08b260f0:
       image_group_id: I1KG1346
-      title: ''
+      title: Volume 5 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 5
       total_pages: 580
-    b8069493abb5423ca3aeb0a4ef667aa9:
+      base_file: v005.txt
+    b2f97a5be0dd4abf86ad9a70f895d525:
       image_group_id: I1KG1347
-      title: ''
+      title: Volume 6 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
       volume_number: 6
       total_pages: 488
+      base_file: v006.txt
 ebook_metadata:
   title: གསུང་འབུམ། བློ་བཟང་དཔལ་ལྡན་ཆོས་ཀྱི་རྡོ་རྗེ
   author: ''
