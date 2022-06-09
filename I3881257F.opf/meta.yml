@@ -1,47 +1,57 @@
-id: P007878
+id: I3881257F
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
-created_at: 22/03/2020
-last_modified_at: 2021-12-17 12:46:48.430756
+imported: '2020-03-22T06:09:09+00:00'
+last_modified: '2022-06-09T06:57:35.549515+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
 source_metadata:
   id: bdr:W29157
   title: གསུང་འབུམ། བློ་བཟང་དཔལ་ལྡན་ཆོས་ཀྱི་རྡོ་རྗེ
   author: ''
-  volumes:
-    3b8c83cdb8404222a6641e06292349af:
-      image_group_id: I1KG1342
-      title: Volume 1 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 1
-      total_pages: 744
-      base_file: v001.txt
-    0174a45cc8b446d2b052bf7301b359ff:
-      image_group_id: I1KG1343
-      title: Volume 2 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 2
-      total_pages: 748
-      base_file: v002.txt
-    053dc71f28be4065be1b187b4bf64543:
-      image_group_id: I1KG1344
-      title: Volume 3 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 3
-      total_pages: 524
-      base_file: v003.txt
-    bc1de08f124549bf8e0f724b37c4853d:
-      image_group_id: I1KG1345
-      title: Volume 4 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 4
-      total_pages: 512
-      base_file: v004.txt
-    87616e00526c43a4a5e29fff08b260f0:
-      image_group_id: I1KG1346
-      title: Volume 5 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 5
-      total_pages: 580
-      base_file: v005.txt
-    b2f97a5be0dd4abf86ad9a70f895d525:
-      image_group_id: I1KG1347
-      title: Volume 6 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
-      volume_number: 6
-      total_pages: 488
-      base_file: v006.txt
   access: http://purl.bdrc.io/admindata/AccessOpen
   restrictedInChina: true
+  base:
+    '4417':
+      image_group_id: I1KG1342
+      title: Volume 1 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 744
+      order: 1
+      base_file: 4417.txt
+    '7377':
+      image_group_id: I1KG1343
+      title: Volume 2 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 748
+      order: 2
+      base_file: 7377.txt
+    '3834':
+      image_group_id: I1KG1344
+      title: Volume 3 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 524
+      order: 3
+      base_file: 3834.txt
+    08CC:
+      image_group_id: I1KG1345
+      title: Volume 4 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 512
+      order: 4
+      base_file: 08CC.txt
+    62FF:
+      image_group_id: I1KG1346
+      title: Volume 5 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 580
+      order: 5
+      base_file: 62FF.txt
+    F18E:
+      image_group_id: I1KG1347
+      title: Volume 6 of gsung 'bum/_blo bzang dpal ldan chos kyi rdo rje
+      total_pages: 488
+      order: 6
+      base_file: F18E.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
